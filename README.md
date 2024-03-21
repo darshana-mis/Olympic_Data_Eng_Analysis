@@ -3,6 +3,8 @@
 ## Introduction
 This project aims to create a data pipeline in Azure for handling Olympics data from the 2021 Olympics dataset. The pipeline encompasses various steps from data ingestion to visualization using Azure services.
 
+![architecture_diagram](https://github.com/darshana-mis/Olympic_Data_Eng_Analysis/assets/113302899/3125e865-bf79-4a3d-9f30-ccd84386dffb)
+
 ## Contents
 1. Understanding the 2021 Olympics dataset
 2. Difference between Big data and Traditional data
