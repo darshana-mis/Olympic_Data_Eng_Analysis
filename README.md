@@ -34,5 +34,10 @@ This project aims to create a data pipeline in Azure for handling Olympics data 
 9. **Visualization Creation**: Create compelling visualizations in Power BI to derive insights from the Olympics data.
 10. **Dashboard Publication**: Publish the Power BI dashboard in Azure Synapse workspace for easy access and sharing.
 
+**Link to Power BI Dashboard:** https://app.powerbi.com/groups/0df2a196-d687-45db-abad-8ccbfccad901/reports/1375f76e-6e61-4020-94e3-49fad3a7967e/ReportSection?experience=power-bi
+
+![olympics_data_dashboard](https://github.com/darshana-mis/Olympic_Data_Eng_Analysis/assets/113302899/d80257dd-e4e1-40e0-9f41-89950f5cfa9c)
+
 ## Conclusion
-By following these steps, you can create an efficient data pipeline in Azure for handling Olympics data, enabling seamless data ingestion, processing, analysis, and visualization using Azure Synapse Analytics and Power BI.
+An efficient data pipeline in Azure for handling Olympics data, enabling seamless data ingestion, processing, analysis, and visualization using Azure Synapse Analytics and Power BI.
+
